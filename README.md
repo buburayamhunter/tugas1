@@ -1,6 +1,7 @@
 # tugas1
 
-A new Flutter project.
+<h1>TUGAS MODUL 2</h1>
+<h2>Rama Firdaus 202110370311412</h2>
 
 ## Getting Started
 
